@@ -2,6 +2,13 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.5.
 
+
+NewsCenter is a news site developed in Angular. 
+It consumes News Api, that contains information about news articles all around the world.
+It offers different news sections based on subjects and languages.
+As well it offers the possibility of rating the articles and commenting them.
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
